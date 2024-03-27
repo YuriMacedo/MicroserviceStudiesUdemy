@@ -24,7 +24,6 @@ C:\Users\Master\Desktop\Udemy\Projeto\MicroservicosUdemy\GeekShopping\GeekShoppi
 C:\Users\Master\Desktop\Udemy\Projeto\MicroservicosUdemy\GeekShopping\GeekShopping.ProdutAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GeekShopping.ProdutAPI.props
 C:\Users\Master\Desktop\Udemy\Projeto\MicroservicosUdemy\GeekShopping\GeekShopping.ProdutAPI\obj\Debug\net6.0\staticwebassets.pack.json
 C:\Users\Master\Desktop\Udemy\Projeto\MicroservicosUdemy\GeekShopping\GeekShopping.ProdutAPI\obj\Debug\net6.0\scopedcss\bundle\GeekShopping.ProdutAPI.styles.css
-C:\Users\Master\Desktop\Udemy\Projeto\MicroservicosUdemy\GeekShopping\GeekShopping.ProdutAPI\obj\Debug\net6.0\GeekShopping.ProdutAPI.csproj.CopyComplete
 C:\Users\Master\Desktop\Udemy\Projeto\MicroservicosUdemy\GeekShopping\GeekShopping.ProdutAPI\obj\Debug\net6.0\GeekShopping.ProdutAPI.dll
 C:\Users\Master\Desktop\Udemy\Projeto\MicroservicosUdemy\GeekShopping\GeekShopping.ProdutAPI\obj\Debug\net6.0\refint\GeekShopping.ProdutAPI.dll
 C:\Users\Master\Desktop\Udemy\Projeto\MicroservicosUdemy\GeekShopping\GeekShopping.ProdutAPI\obj\Debug\net6.0\GeekShopping.ProdutAPI.pdb
@@ -47,3 +46,5 @@ C:\Users\Master\Desktop\Udemy\Projeto\MicroservicosUdemy\GeekShopping\GeekShoppi
 C:\Users\Master\Desktop\Udemy\Projeto\MicroservicosUdemy\GeekShopping\GeekShopping.ProdutAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\Master\Desktop\Udemy\Projeto\MicroservicosUdemy\GeekShopping\GeekShopping.ProdutAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
 C:\Users\Master\Desktop\Udemy\Projeto\MicroservicosUdemy\GeekShopping\GeekShopping.ProdutAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Master\Desktop\Udemy\Projeto\MicroservicosUdemy\GeekShopping\GeekShopping.ProdutAPI\obj\Debug\net6.0\GeekShopping.ProdutAPI.sourcelink.json
+C:\Users\Master\Desktop\Udemy\Projeto\MicroservicosUdemy\GeekShopping\GeekShopping.ProdutAPI\obj\Debug\net6.0\GeekShop.7059D8F4.Up2Date
