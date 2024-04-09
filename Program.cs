@@ -1,6 +1,7 @@
 using AutoMapper;
 using GeekShopping.ProdutAPI.Config;
 using GeekShopping.ProdutAPI.Model.Context;
+using GeekShopping.ProdutAPI.Repository;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -21,6 +22,8 @@ builder.Services.AddDbContext<MySqlContext>(options => options.
 IMapper mapper = MappingConfig.RegisterMaps().CreateMapper();
 builder.Services.AddSingleton(mapper);
 AutoMapper.ServiceCollectionExtensions.AddAutoMapper(builder.Services, AppDomain.CurrentDomain.GetAssemblies());
+
+builder.Services.AddScoped<IProductRepository, ProductRepository>();
 
 
 var app = builder.Build();
